@@ -1,0 +1,6 @@
+Link para saber mais sobre Markdown
+https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+
+Link de Download do Git
+https://git-scm.com/
+O Git Dash é um terminal extendido para otimizar o uso do Git
